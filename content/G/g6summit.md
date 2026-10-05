@@ -5,14 +5,13 @@ title = "G6 Summit"
 unit_id = "74"
 subject = "G"
 classification = "Geometry"
-stub = true
 +++
 Arguably the most difficult conventional geometry unit. Like all summit units, there are no lecture notes.
 There are 4 categories named after the 4 periods of classical music and are weakly ordered by the ages of the techniques
-involved. In particular, classical period problems would be good fits for configgeo unit, and contemporary period problems 
+involved. In particular, classical period problems would be good fits for configgeo unit, and contemporary period problems
 are quite strange- many of those problems' diagrams are not based on triangles.
 
-The unit teaches some niche theory but is otherwise just miscellaneous hard geo. (feel free to disagree @gm)
+The unit teaches some niche theory but is otherwise just miscellaneous hard geo.
 
 # Notable problems
 - `20USATST6`: Probably the most difficult geometry problem to appear on an national or international contest ever.
